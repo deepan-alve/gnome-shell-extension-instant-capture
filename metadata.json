@@ -1,7 +1,7 @@
 {
   "name": "Screenshot Pro",
   "description": "Restores the classic 'drag and release' screenshot behavior. Automatically captures and resets selection area.",
-  "uuid": "instant-capture@deepan.alve",
+  "uuid": "screenshot-pro@deepan.alve",
   "shell-version": ["45", "46", "47", "48", "49", "50", "50.1"],
   "version": 1,
   "url": "https://github.com/deepan-alve/screenshot-pro"
